@@ -39,13 +39,13 @@
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_size_h": 0.7999999999999999,
+        "silk_text_size_v": 0.7999999999999999,
+        "silk_text_thickness": 0.13,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -123,6 +123,7 @@
         0.0,
         0.2,
         0.4,
+        0.8,
         1.0
       ],
       "via_dimensions": [
@@ -354,7 +355,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "lrv.kicad_pro",
+    "filename": "stnstarter.kicad_pro",
     "version": 1
   },
   "net_settings": {
